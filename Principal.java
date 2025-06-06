@@ -11,7 +11,7 @@ public class Principal {
 		int n2=3;
 		Integer n3;
 		String texto;
-		String texto2="bienvenido";
+		String texto2="Bienvenido";
 		n1=2;
 		
 		Scanner lector = new Scanner(System.in);
