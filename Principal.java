@@ -84,9 +84,9 @@ public class Principal {
 		System.out.println();
 		System.out.println("Comparar con equals");
 		if (texto.equals(texto2)) {
-			System.out.println("textos iguales");
+			System.out.println("Textos iguales");
 		} else {
-			System.out.println("textos distintos");
+			System.out.println("Textos distintos");
 		}
 
 		System.out.println();
