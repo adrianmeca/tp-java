@@ -11,7 +11,7 @@ public class Principal {
 		int n2=3;
 		Integer n3;
 		String texto;
-		String texto2="bienvenido sea";
+		String texto2="Bienvenido sea";
 		n1=2;
 		
 		Scanner lector = new Scanner(System.in);
@@ -76,7 +76,7 @@ public class Principal {
 		System.out.println();
 		System.out.println("Comparar con ==");
 		if (texto==texto2) {
-			System.out.println("textos iguales");
+			System.out.println("Los textos son iguales");
 		} else {
 			System.out.println("textos distintos");
 		}
