@@ -1,13 +1,11 @@
 package primerEjemplo;
 
 import java.util.Scanner;
-
 import javax.swing.JOptionPane;
 
 public class Principal {
 
 	public static void main(String[] args) {
-		
 		System.out.println("Primer Ejemplo");
 		int n1;
 		int n2=3;
@@ -27,7 +25,6 @@ public class Principal {
 		//String despedida=JOptionPane.showInputDialog("Ingrese saludo final");
 		
 		//JOptionPane.showMessageDialog(null, despedida);
-		
 	}
 	
 	private static void iterar(Scanner lector) {
@@ -55,7 +52,6 @@ public class Principal {
 		for (String palabra : palabras) {
 			System.out.println(palabra);
 		}
-		
 	}
 
 	private static void variablesEIfs(int n1, int n2, String texto2, Scanner lector) {
@@ -101,5 +97,4 @@ public class Principal {
 			System.out.println("textos distintos");
 		}
 	}
-
 }
