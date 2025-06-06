@@ -76,7 +76,7 @@ public class Principal {
 		System.out.println();
 		System.out.println("Comparar con ==");
 		if (texto==texto2) {
-			System.out.println("textos iguales");
+			System.out.println("Los textos son iguales");
 		} else {
 			System.out.println("textos distintos");
 		}
